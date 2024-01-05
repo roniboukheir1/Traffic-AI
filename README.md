@@ -9,7 +9,7 @@ To get started with Traffic-AI, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Traffic-AI.git
+   git clone https://github.com/roniboukheir1/Traffic-AI.git
    ```
 2. Navigate to the project directory:
    ```bash
